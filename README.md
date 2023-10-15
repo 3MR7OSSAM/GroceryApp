@@ -51,7 +51,7 @@ We are dedicated to making the Grocery App the best it can be. Your feedback, su
 
 ## Support and Contact
 
-If you have any questions or need assistance, please feel free to reach out via [Amr70.vip](@gmail.com) or [open an issue](link_to_issues) on this repository.
+If you have any questions or need assistance, please feel free to reach out via [Amr70.vip@gmail.com] or [open an issue](link_to_issues) on this repository.
 
 ---
 
