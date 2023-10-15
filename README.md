@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](link_to_license). See the [LICE
 
 - [Amr Hossam]
 - [Amr70.vip@gmail.com]
--  
+  
 We are dedicated to making the Grocery App the best it can be. Your feedback, suggestions, and contributions are highly appreciated.
 
 ## Support and Contact
